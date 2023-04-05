@@ -7,5 +7,6 @@ There are three buttons: red, blue, and yellow. By selecting a button, the backg
 <img src="https://user-images.githubusercontent.com/117991037/229778842-047fae14-05af-400d-b4a7-26464792fdf2.jpg" height="600px" width ="350px"></img>
 <img src="https://user-images.githubusercontent.com/117991037/229778860-08d7580a-b0cd-41de-815c-0bcbef80c139.jpg" height="600px" width ="350px"></img>
 
-
-## Thank You 🫶💕
+```
+Thank You 🫶💕
+```
